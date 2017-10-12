@@ -14,13 +14,21 @@ Git:
 git clone git@github.com:xovel/octoverse.git
 ```
 
-or 
+or
 
 Download <https://github.com/xovel/octoverse/archive/gh-pages.zip>
 
 Run `index.html` in a modern browser, e.g. Chrome/Firefox/Edge.
 
 ## Change
+
+### 2017
+
+- Commented `Global Site Tag (gtag.js) - Google Analytics`.
+- Use `DEV-SRC` of `jquery`, `jquery.waypoints.js`, `rellax.js`.
+- Did not using offline data about `mapbox` data, so it is not a truely offline version.
+
+### 2016
 
 - `GA`(Google Analytics) code has been commented out.
 - `Gauges` analytics is also the same.
