@@ -1,0 +1,286 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "UC Berkeley",
+        "description": "8.5K accounts",
+        "popupPosition": [37.876377769948405, -122.23892927169798]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23892927169798,
+          37.876377769948405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Waterloo",
+        "description": "5.5K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55072784423828,
+          43.476591264232674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Texas",
+        "description": "5K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.73454666137694,
+          30.28567869039136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Illinois at Urbana-Champaign",
+        "description": "4.5K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23152303695679,
+          40.1008239724005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Michigan",
+        "description": "4.3K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.71135711669922,
+          42.29458001652551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Georgia Tech",
+        "description": "4.2K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40323829650879,
+          33.77087133586779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Stanford University",
+        "description": "4K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16923475265502,
+          37.431148266658894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of San Diego",
+        "description": "3.8K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1891665458679,
+          32.772517250746155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Washington",
+        "description": "3.7K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30817317962646,
+          47.65396992312855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Cornell University",
+        "description": "3.7K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47531509399414,
+          42.44917476367433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Purdue University",
+        "description": "3.7K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9243860244751,
+          40.431987629479885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Toronto",
+        "description": "3.6K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39746379852295,
+          43.66343229626843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "New York University",
+        "description": "3.6K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9965033531189,
+          40.72927511814658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Epitech International",
+        "description": "3.3K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362833023071289,
+          48.81507348575627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Southern California",
+        "description": "3.2K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28623294830322,
+          34.02232442022577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Arizona State University",
+        "description": "3.1K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93265914916992,
+          33.42126933234383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Columbia University",
+        "description": "3K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95770788192749,
+          40.817657992282506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Massachusetts Institute of Technology",
+        "description": "2.5K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09561920166016,
+          42.35829022102702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Full Sail University",
+        "description": "2.4K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.30445003509521,
+          28.594111984668967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Virginia Tech",
+        "description": "2.3K accounts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42105913162231,
+          37.22581786332177
+        ]
+      }
+    }
+  ]
+}
