@@ -5,6 +5,7 @@ An offline version of <https://octoverse.github.com/>.
 ## Online
 
 - <http://xovel.cn/octoverse/>
+- <http://xovel.cn/octoverse/2017>
 - <http://xovel.cn/octoverse/2016>
 
 ## Usage
@@ -22,6 +23,10 @@ Run `index.html` in a modern browser, e.g. Chrome/Firefox/Edge.
 
 ## Change
 
+### 2018
+
+- Commented `Global Site Tag (gtag.js) - Google Analytics`.
+
 ### 2017
 
 - Commented `Global Site Tag (gtag.js) - Google Analytics`.
@@ -33,7 +38,3 @@ Run `index.html` in a modern browser, e.g. Chrome/Firefox/Edge.
 - `GA`(Google Analytics) code has been commented out.
 - `Gauges` analytics is also the same.
 - Format `all.css` and `all.js`. Pretty printed by Chrome Dev Tools.
-
-
-
-
