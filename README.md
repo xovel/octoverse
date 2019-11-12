@@ -5,6 +5,7 @@ An offline version of <https://octoverse.github.com/>.
 ## Online
 
 - <http://xovel.cn/octoverse/>
+- <http://xovel.cn/octoverse/2018>
 - <http://xovel.cn/octoverse/2017>
 - <http://xovel.cn/octoverse/2016>
 
@@ -22,6 +23,11 @@ Download <https://github.com/xovel/octoverse/archive/gh-pages.zip>
 Run `index.html` in a modern browser, e.g. Chrome/Firefox/Edge.
 
 ## Change
+
+### 2019
+
+- Commented `Global Site Tag (gtag.js) - Google Analytics`.
+- Fix encoding error about `&#65279;`.
 
 ### 2018
 
