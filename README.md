@@ -5,6 +5,7 @@ An offline version of <https://octoverse.github.com/>.
 ## Online
 
 - <http://xovel.cn/octoverse/>
+- <http://xovel.cn/octoverse/2019>
 - <http://xovel.cn/octoverse/2018>
 - <http://xovel.cn/octoverse/2017>
 - <http://xovel.cn/octoverse/2016>
@@ -12,6 +13,7 @@ An offline version of <https://octoverse.github.com/>.
 ## Usage
 
 Git:
+
 ```
 git clone git@github.com:xovel/octoverse.git
 ```
