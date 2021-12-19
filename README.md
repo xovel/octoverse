@@ -2,9 +2,15 @@
 
 An offline version of <https://octoverse.github.com/>.
 
+## NOTICE
+
+I quit this project because git octoverse 2021 was too difficult to get an offline version due to the base technologies it used are very unfriendly to debug and recover. It use `next.js`, `sweltejs`, and also many other magic technologies.
+
+Maybe someday I dive into the `next.js` framework, I'll find another way.
+
 ## Online
 
-- <http://xovel.cn/octoverse/>
+- <http://xovel.cn/octoverse/2020>
 - <http://xovel.cn/octoverse/2019>
 - <http://xovel.cn/octoverse/2018>
 - <http://xovel.cn/octoverse/2017>

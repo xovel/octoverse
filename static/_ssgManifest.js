@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcredits","\u002Fglossary","\u002Fpolicy","\u002Fcreating-documentation","\u002Fabout-the-data","\u002F","\u002Fsustainable-communities","\u002Fwriting-code-faster"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
